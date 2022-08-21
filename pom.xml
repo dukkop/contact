@@ -14,7 +14,7 @@
 	<name>contact</name>
 	<description>Contact project for Spring Boot and Kotlin</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
